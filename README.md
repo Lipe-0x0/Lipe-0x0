@@ -16,7 +16,4 @@
 ## 🔝 Melhores Repositórios
 ![](https://github-contributor-stats.vercel.app/api?username=Lipe-0x0&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true&locale=pt-br)
 
----
-[![](https://visitcount.itsvg.in/api?id=Lipe-0x0&icon=1&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
